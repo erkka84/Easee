@@ -4,7 +4,7 @@ curl --request POST \
      --header 'content-type: application/json' \
      --data '
 {
-  "userName": "erkka@sahkoasennuslouhi.com",
-  "password": "Erkka123"
+  "erkka@sahkoasennuslouhi.com": "string",
+  "Erkka123": "string"
 }
 '
